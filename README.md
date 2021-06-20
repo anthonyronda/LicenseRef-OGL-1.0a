@@ -1,4 +1,4 @@
-# LicenseRef-OGL-next.rc1
+# LicenseRef-OGL-next.1
 
 The Open Game License _Next_ Working Repository
 
