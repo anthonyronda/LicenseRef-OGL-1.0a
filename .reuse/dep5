@@ -1,0 +1,13 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: LicenseRef-OGL-1.0a
+Upstream-Contact: Anthony Ronda <admin@opengamelicense.org>
+Source: https://github.com/anthonyronda/LicenseRef-OGL-1.0a/
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...
+Files: README.md .prettierrc .vscode/*
+Copyright: 2021 Anthony Ronda <admin@opengamelicense.org>
+License: CC0-1.0 OR LicenseRef-OGL-1.0a

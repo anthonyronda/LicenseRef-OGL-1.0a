@@ -15,6 +15,7 @@ The Open Game License SPDX Proposal
    content under a different license, it might be appropriate to put it in a
    directory of only Open Game Content, and including a notice in your root
    directory explaining which content is covered under which license.
+   Optionally, use the [REUSE Software][2] specification.
 1. Place the work title, work copyright year, and work author name(s) for each
    of the works in the COPYRIGHT NOTICE for all Derivative Material you used in
    your work.
@@ -28,3 +29,4 @@ The Open Game License SPDX Proposal
 
 [1]:
   https://raw.githubusercontent.com/anthonyronda/LicenseRef-OGL-1.0a/main/LICENSE
+[2]: https://reuse.software
